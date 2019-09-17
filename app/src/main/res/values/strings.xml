@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Nasa Daily Image App</string>
+    <string name="title">NASA Daily Image</string>
+    <string name="sample_title">This is a sample title long enough so........</string>
+</resources>
